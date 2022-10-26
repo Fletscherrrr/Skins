@@ -10,7 +10,7 @@ ____
 
 #### [- 『EternJu』 - EZ Rohulk](https://drive.google.com/file/d/15rw47NYS2VimbJw2VZdRyJt4CfgA6lcs/view?usp=sharing)  
 ![screenshot956](https://user-images.githubusercontent.com/115947237/198083803-28b30ab3-5a4e-45f5-894e-f112fe70814d.png)  
-WubWoofWolf hitsounds for no reason. Might change in the Future cuz I haven't found my sweetspot for combo colors yet.
+WubWoofWolf's hitsounds for no reason. Might change in the Future cuz I haven't found my sweetspot for combo colors yet.
 ____
 
 #### [- 『EternJu』 - Hybrid 404](https://drive.google.com/file/d/1B_eq3bJBbCm7mcSF2JKOoKqy41bolmfV/view?usp=sharing)  
