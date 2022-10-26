@@ -10,6 +10,7 @@ ____
 
 #### [- 『EternJu』 - EZ Rohulk](https://drive.google.com/file/d/15rw47NYS2VimbJw2VZdRyJt4CfgA6lcs/view?usp=sharing)  
 ![screenshot956](https://user-images.githubusercontent.com/115947237/198083803-28b30ab3-5a4e-45f5-894e-f112fe70814d.png)  
+WubWoofWolf hitsounds for no reason. Might change in the Future cuz I haven't found my sweetspot for combo colors yet.
 ____
 
 #### [- 『EternJu』 - Hybrid 404](https://drive.google.com/file/d/1B_eq3bJBbCm7mcSF2JKOoKqy41bolmfV/view?usp=sharing)  
@@ -18,6 +19,7 @@ ____
 
 #### [- 『EternJu』 - Hybrid Arnold](https://drive.google.com/file/d/1BruQYFgMJPpDjzXCXXlHI7NSwqKFpZ3f/view?usp=sharing)  
 ![screenshot958](https://user-images.githubusercontent.com/115947237/198085457-19b91ba2-eee7-4370-b606-d1d6c4299599.png)  
+Hitsounds taken from one of Mastasz' skins.
 ____
 
 #### [- 『EternJu』 - Hybrid Zylice](https://drive.google.com/file/d/1Zby--bdO3Mtys9y6V7g_y6AopjB0-UFX/view?usp=sharing)  
