@@ -45,7 +45,7 @@ ____
 ____
 
 
-Thats it for now. Pretty much everything gameplay related was made by [iSmileZ](https://twitter.com/SZskins). 
+Thats it for now. Pretty much everything gameplay related was made by [iSmileZ](https://twitter.com/SZskins).  
 Personalization stuff was made or implemented by myself(i.e. scorebar, input keys, trolldespair).  
 Pretty much all of the cursors used are made by myself(I made some big ass cursorpack which I might release in the future.).  
 The 404 style cursors are made by iSmileZ tho.  
