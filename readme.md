@@ -6,7 +6,7 @@ Keep in mind that this is not gonna get updated frequently. Please don't ask me 
 #### [-FR+SZ {+GN}](https://drive.google.com/file/d/1Dl5NnUUGlmhEeZH4i-1aCUHsE3_wOaB-/view?usp=drive_link)  
 ![screenshot1174](https://github.com/Fletscherrrr/Skins/assets/115947237/72d28f30-7a58-4940-93d3-ca7f328dfcdc)
 
-____
+___
 
 #### [-FR+SZ {404}](https://drive.google.com/file/d/1xtMFQ248seQdTVsc2Be950U7uVYuG-Zr/view?usp=drive_link)  
 ![screenshot1176](https://github.com/Fletscherrrr/Skins/assets/115947237/831527dd-c0e8-4464-9d0a-1706e3777c01)
