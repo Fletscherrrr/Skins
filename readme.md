@@ -48,9 +48,61 @@ ____
 
 ____
 
-#### [-FR+SZ {Placeholder}]()  
+#### [-FR+SZ {dddx15}](https://drive.google.com/file/d/1WZIAAoqCl-gcfXh88bvxzpCpW_eiWFoN/view?usp=drive_link)  
+![screenshot1184](https://github.com/Fletscherrrr/Skins/assets/115947237/94f94bbd-348c-412a-b79f-78bf64dab424)
 
 ____
+
+#### [-FR+SZ {DT}](https://drive.google.com/file/d/1JgN-xx8vjjccebcvsa5TbhytxlLg04_G/view?usp=drive_link)  
+#### [-FR+SZ {DT24x24}](https://drive.google.com/file/d/1KLg5fvua1znQaa8OlT-k5EZ_uK41vMzS/view?usp=drive_link)  
+![screenshot1185](https://github.com/Fletscherrrr/Skins/assets/115947237/af647642-9022-4d60-b124-19b9d3666712)
+
+____
+
+#### [-FR+SZ {Freddie}](https://drive.google.com/file/d/1Hiws7FqdFeq7tF06H8PW6Y7Y39AaXIel/view?usp=drive_link)  
+![screenshot1186](https://github.com/Fletscherrrr/Skins/assets/115947237/8e606926-b7f6-4cb7-a3ba-c08157aaa65f)
+
+____
+
+#### [-FR+SZ {hvick kinda}](https://drive.google.com/file/d/1Kqag337IzYVsRSaziYYjJlUMjE6xKTMw/view?usp=drive_link)  
+![screenshot1187](https://github.com/Fletscherrrr/Skins/assets/115947237/b749e1ac-1f0d-4324-83e8-0c082f093c17)
+
+____
+
+#### [-FR+SZ {idke 1.2}](https://drive.google.com/file/d/1vpQZHQ8vvTnYxOinQI9cPItEZHj9bN5h/view?usp=drive_link)  
+![screenshot1188](https://github.com/Fletscherrrr/Skins/assets/115947237/03fc3ef5-cfbe-474a-b112-a2a8946e8f95)
+
+____
+
+#### [-FR+SZ {Jace}](https://drive.google.com/file/d/1G-qJcugcI9yc6Rd2tQvMEKKkV6RSkJ7s/view?usp=drive_link)  
+![screenshot1189](https://github.com/Fletscherrrr/Skins/assets/115947237/85fb6d77-9739-40c4-966d-7a117b8f2b41)
+
+____
+
+#### [-FR+SZ {Juicy}](https://drive.google.com/file/d/1IufPg6zNpdCeXkPpX5bxctwyzlNrlCMQ/view?usp=drive_link)  
+![screenshot1190](https://github.com/Fletscherrrr/Skins/assets/115947237/8ac32f00-b232-48c9-b51e-71e5c8be27e0)
+
+____
+
+#### [-FR+SZ {Kamui Classic}](https://drive.google.com/file/d/1XktC3kZJzwxMy3XxLMEfcQHWKOVKSHys/view?usp=drive_link)  
+![screenshot1191](https://github.com/Fletscherrrr/Skins/assets/115947237/9ed534e0-8ef6-4e0f-ade1-4f8ba16f715e)
+
+____
+
+#### [-FR+SZ {Kamui+FR}](https://drive.google.com/file/d/1KqcKkV-jrezRyHM-iJy_Wajw0ovCci9a/view?usp=drive_link)  
+![screenshot1192](https://github.com/Fletscherrrr/Skins/assets/115947237/e761c5c3-14b6-4d9a-bb9e-ffd40c538047)
+
+____
+
+#### [-FR+SZ {Mathi}](https://drive.google.com/file/d/1eAJ55fr-YPIDVc5U6U_DqvGf49nfihlu/view?usp=drive_link)  
+![screenshot1193](https://github.com/Fletscherrrr/Skins/assets/115947237/1aca8cd0-5fe4-4f1a-a5b6-e9a5219b9566)
+
+____
+
+#### [-FR+SZ {}]()  
+
+____
+
 
 ### Contributions
 The majority of the skin has been made by me. The same goes for all the gameplay variants that are displayed here, they are all remakes because I don't want elements from unknown sources to prevent dmca fuckery.
