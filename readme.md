@@ -99,10 +99,54 @@ ____
 
 ____
 
-#### [-FR+SZ {}]()  
+#### [-FR+SZ {Pingpong}](https://drive.google.com/file/d/1OAzzjYOjSTjydRJSayWNAcAFQX1ZI744/view?usp=drive_link)  
+![screenshot1194](https://github.com/Fletscherrrr/Skins/assets/115947237/dad20e9e-15b0-4646-bc4c-187cd05c0b42)
 
 ____
 
+#### [-FR+SZ {Rustbell}](https://drive.google.com/file/d/1Y62SI3dhSsW8fMAY8vGdBxqq9BH0SGFV/view?usp=drive_link)  
+![screenshot1195](https://github.com/Fletscherrrr/Skins/assets/115947237/15181dfe-3d7e-47aa-97b8-007343d838e4)
+
+____
+
+#### [-FR+SZ {Selyu}](https://drive.google.com/file/d/1RRTekbih7gI2C_fbVca-jIMtBMM1pwDj/view?usp=drive_link)  
+![screenshot1196](https://github.com/Fletscherrrr/Skins/assets/115947237/f31fd2cc-fcce-4f61-b117-973e89e759d5)
+
+____
+
+#### [-FR+SZ {Seoul V9}](https://drive.google.com/file/d/1IsOP6SalbAysQaI6xCdl4cCL6GjW_IzO/view?usp=drive_link)  
+![screenshot1197](https://github.com/Fletscherrrr/Skins/assets/115947237/ba5bbc46-c306-4659-8b7f-285583d145f6)
+
+____
+
+#### [-FR+SZ {Tekkito}](https://drive.google.com/file/d/1o2pIHuTHEyPjIrjXmWN8uebz3Ct9pu-2/view?usp=drive_link)  
+![screenshot1198](https://github.com/Fletscherrrr/Skins/assets/115947237/c4268105-e81b-4376-96da-ef7ed1359bce)
+
+____
+
+#### [-FR+SZ {Vaxei 2023}](https://drive.google.com/file/d/1NSb9dntlVTQLIj_-FePyO3YkkQaZTGSY/view?usp=drive_link)  
+![screenshot1199](https://github.com/Fletscherrrr/Skins/assets/115947237/c2870dd1-db91-4c85-ad82-7924c8fb42af)
+
+____
+
+#### [-FR+SZ {Vaxei og 2023}](https://drive.google.com/file/d/1JlQZkMcNIeg-AA-E1iPQyo011WyATym1/view?usp=drive_link)  
+![screenshot1200](https://github.com/Fletscherrrr/Skins/assets/115947237/cfdfacee-6baf-40e6-a2e8-2ab104f5ebc7)
+
+____
+
+#### [-FR+SZ {Vaxei og nm 2023}](https://drive.google.com/file/d/1p1cF-UDU8WQe7ykvDqmmkEM2qVZDfkEk/view?usp=drive_link)  
+![screenshot1201](https://github.com/Fletscherrrr/Skins/assets/115947237/04cf73be-b904-41a2-a257-57c49475cbe1)
+
+____
+
+#### [-FR+SZ {Xooty}](https://drive.google.com/file/d/1ejU3bbfXud3ZCJhZeaeBsDwSUlib7BBE/view?usp=drive_link)  
+![screenshot1202](https://github.com/Fletscherrrr/Skins/assets/115947237/79c5076d-3d85-4b39-88cd-4ab8e70d760b)
+
+____
+
+#### [-FR+SZ {Placeholder}]  
+
+____
 
 ### Contributions
 The majority of the skin has been made by me. The same goes for all the gameplay variants that are displayed here, they are all remakes because I don't want elements from unknown sources to prevent dmca fuckery.
