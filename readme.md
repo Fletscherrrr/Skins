@@ -55,8 +55,10 @@ ____
 ### Contributions
 The majority of the skin has been made by me. The same goes for all the gameplay variants that are displayed here, they are all remakes because I don't want elements from unknown sources to prevent dmca fuckery.
 With that being said I finally want to get to the part where I actually thank people.
+
 Big thanks to [iSmileZ](https://twitter.com/SZskins) who basically taught me how to Photoshop and has been my main source of feedback for this Skin and its Gameplay Variants.
 He also made the Mod Icons for this Skin so thanks again!
+
 I also want to thank [cyperdark](https://twitter.com/cpol_owo) for letting me use the menu sounds of his BaconBoi skin.
 
 ### Disclaimer
