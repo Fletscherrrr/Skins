@@ -67,7 +67,7 @@ ____
 
 #### [-FR+SZ {hvick kinda}](https://drive.google.com/file/d/1Kqag337IzYVsRSaziYYjJlUMjE6xKTMw/view?usp=drive_link)  
 ![screenshot1187](https://github.com/Fletscherrrr/Skins/assets/115947237/b749e1ac-1f0d-4324-83e8-0c082f093c17)
-
+not really happy with this version, doubt im gonna give it a revamp tho
 ____
 
 #### [-FR+SZ {idke 1.2}](https://drive.google.com/file/d/1vpQZHQ8vvTnYxOinQI9cPItEZHj9bN5h/view?usp=drive_link)  
