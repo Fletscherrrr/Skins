@@ -4,10 +4,15 @@ Note that hitcircleoverlays in my psd's are off center, I'm too lazy to fix that
 
 ## Currently WIP
 > update hitsounds on most skins
+
 > azerino
+
 > azerino24x24
+
 > Better Argon
+
 > blackdog5/wc
+
 > dustice
 ## Previews and Links  
 
