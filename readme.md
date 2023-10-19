@@ -2,7 +2,7 @@
 Keep in mind that this is not gonna get updated frequently. Please don't ask me to give you any skin I use or used in the past.  
 Note that hitcircleoverlays in my psd's are off center, I'm too lazy to fix that so whatever. It doesn't affect if you right click "export as" on the groups because it auto-centers reliably enough.
 
-## Currently WIP
+## Currently not WIP
 > update hitsounds on most skins
 
 > azerino
